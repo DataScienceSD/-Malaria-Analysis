@@ -18,7 +18,6 @@ library(dlnm)      # For Distributed Lag Non-linear Models
 library(splines)   # For smoothing splines
 library(viridis)   # For color scales
 
-# Step 1: Generate a sample dataset
 set.seed(123)
 
 # Parameters
